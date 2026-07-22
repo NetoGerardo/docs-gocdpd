@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lft9rm.yoursingles.online/sitemap.xml
